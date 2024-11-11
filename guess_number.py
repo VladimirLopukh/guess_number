@@ -11,4 +11,3 @@ while True:
     else:
         print('Угадали')
         break
-print('конец')
